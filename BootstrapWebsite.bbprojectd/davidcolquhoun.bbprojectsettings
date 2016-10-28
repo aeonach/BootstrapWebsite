@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EmbeddedEditorHidden:davidcolquhoun</key>
+	<false/>
+	<key>ExpandedEditorWidth:davidcolquhoun:displays([(0, 0), (1920, 1200)])</key>
+	<integer>716</integer>
+	<key>ExpandedItems:davidcolquhoun</key>
+	<array>
+		<string>DE0A65C6-689B-4107-AAE0-5E1A852CC685</string>
+	</array>
+	<key>FileFilterMode:davidcolquhoun</key>
+	<integer>0</integer>
+	<key>OpenDocuments:davidcolquhoun</key>
+	<array/>
+	<key>OpenDocumentsExpanded</key>
+	<true/>
+	<key>OpenDocumentsSplitterProportion</key>
+	<real>0.6001899242401123</real>
+	<key>ProjectItemsExpanded</key>
+	<true/>
+	<key>ProjectViewVisible</key>
+	<true/>
+	<key>RecentItems:davidcolquhoun</key>
+	<array/>
+	<key>ScratchpadItemsExpanded</key>
+	<true/>
+	<key>ScratchpadItemsVisible</key>
+	<true/>
+	<key>ShowSCMData:davidcolquhoun</key>
+	<false/>
+	<key>ToolbarVisible:davidcolquhoun</key>
+	<false/>
+	<key>ViewSplitterPosition:davidcolquhoun</key>
+	<real>0.29941290616989136</real>
+	<key>WindowFrame:davidcolquhoun:displays([(0, 0), (1920, 1200)])</key>
+	<string>rect(67,22,1120,1044)</string>
+</dict>
+</plist>
